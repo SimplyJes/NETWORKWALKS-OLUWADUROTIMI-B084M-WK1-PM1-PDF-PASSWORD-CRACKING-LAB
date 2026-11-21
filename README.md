@@ -71,7 +71,7 @@ This exercise was performed exclusively on PDF files I created and was authorize
 # 👤 Author
 
 Oluwadurotimi Adedokun Adeyemi |
-Cybersecurity Professional | NetworkWalks Training — B084M
+Cybersecurity Professional | NetworkWalks Internship — B084M
 
 # 📌 Project Information
 
